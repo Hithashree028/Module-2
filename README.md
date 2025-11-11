@@ -10,8 +10,8 @@ Java program to compare two numbers and print which one is greater or if they ar
 Java program to Create a program that checks if a person is eligible to vote — eligibility requires age ≥ 18 and citizenship = true (use logical AND).
 ![image link](https://github.com/Hithashree028/Module-2/blob/62978c114c88d0080827b7237749d7461ecc622a/Screenshot%202025-11-11%20222633.png)
 
-
-![image link]()
+Java program to demonstrate +=, -=, and *= operations on an integer variable and display the result after each operation.
+![image link](https://github.com/Hithashree028/Module-2/blob/824f0c4e6e9c3a6f8658d75a096bb050ac716090/Screenshot%202025-11-11%20222734.png)
 
 
 ![image link]()
