@@ -22,5 +22,7 @@ Java program using an if-else statement to determine if an input number is posit
 Java program to print the multiplication table of a number using a for loop.
 ![image link](https://github.com/Hithashree028/Module-2/blob/0047fa7b736b593987aa6e3bcb127a9b11bcd69f/Screenshot%202025-11-11%20223216.png)
 
+Java program that prints numbers from 1 to 10, but skips 5 using the continue statement.
 
-![image link]()
+
+![image link](https://github.com/Hithashree028/Module-2/blob/712d015aef1bff46ff52f196f27c41fe88344d37/Screenshot%202025-11-11%20223339.png)
