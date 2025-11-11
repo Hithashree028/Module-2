@@ -13,8 +13,8 @@ Java program to Create a program that checks if a person is eligible to vote —
 Java program to demonstrate +=, -=, and *= operations on an integer variable and display the result after each operation.
 ![image link](https://github.com/Hithashree028/Module-2/blob/824f0c4e6e9c3a6f8658d75a096bb050ac716090/Screenshot%202025-11-11%20222734.png)
 
-
-![image link]()
+Java program to that reads a number and uses the ternary operator to print whether it is even or odd.
+![image link](https://github.com/Hithashree028/Module-2/blob/fbd3fe0fcc48bea5281acab8a4b8e065ae07ddbf/Screenshot%202025-11-11%20222902.png)
 
 
 ![image link]()
