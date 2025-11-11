@@ -19,8 +19,8 @@ Java program to that reads a number and uses the ternary operator to print wheth
 Java program using an if-else statement to determine if an input number is positive, negative, or zero.
 ![image link](https://github.com/Hithashree028/Module-2/blob/6f6fb032033462d2d19b63a51a09e23505b0e661/Screenshot%202025-11-11%20223018.png)
 
-
-![image link]()
+Java program to print the multiplication table of a number using a for loop.
+![image link](https://github.com/Hithashree028/Module-2/blob/0047fa7b736b593987aa6e3bcb127a9b11bcd69f/Screenshot%202025-11-11%20223216.png)
 
 
 ![image link]()
