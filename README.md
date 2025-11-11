@@ -16,8 +16,8 @@ Java program to demonstrate +=, -=, and *= operations on an integer variable and
 Java program to that reads a number and uses the ternary operator to print whether it is even or odd.
 ![image link](https://github.com/Hithashree028/Module-2/blob/fbd3fe0fcc48bea5281acab8a4b8e065ae07ddbf/Screenshot%202025-11-11%20222902.png)
 
-
-![image link]()
+Java program using an if-else statement to determine if an input number is positive, negative, or zero.
+![image link](https://github.com/Hithashree028/Module-2/blob/6f6fb032033462d2d19b63a51a09e23505b0e661/Screenshot%202025-11-11%20223018.png)
 
 
 ![image link]()
